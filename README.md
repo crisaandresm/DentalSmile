@@ -102,3 +102,39 @@ commit
 
 
 ## 📸 Capturas de pantalla del sistema
+
+### 1. Inicio de sesión
+
+![Login DentalSmile](screenshots/Logindentalsmile.jpeg)
+
+### 2. Agenda del odontólogo
+
+![Agenda del odontólogo](screenshots/Agendaodontologo.png)
+
+### 3. Creación de diagnóstico
+
+![Creación de diagnóstico](screenshots/Creaciondx.png)
+
+### 4. Creación de diagnóstico - Detalle
+
+![Creación de diagnóstico detalle](screenshots/Creaciondx2.png)
+
+### 5. Creación de diagnóstico - Continuación
+
+![Creación de diagnóstico continuación](screenshots/Creaciondx3.png)
+
+### 6. Ejecución del plan de tratamiento
+
+![Ejecución del plan de tratamiento](screenshots/Ejecucionplandetto.png)
+
+### 7. Panel de administrador
+
+![Panel de administrador](screenshots/Indexadministrador.png)
+
+### 8. Resumen del plan de tratamiento
+
+![Resumen del plan de tratamiento](screenshots/Resumenplantto.png)
+
+### 9. Reporte de tiempo de atención
+
+![Reporte de tiempo de atención](screenshots/reportetiempoatencion.png)
