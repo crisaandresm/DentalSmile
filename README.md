@@ -117,11 +117,11 @@ commit
 
 ### 4. Creación de diagnóstico - Detalle
 
-![Creación de diagnóstico detalle](screenshots/Creaciondx2.png)
+![Creación de diagnóstico detalle](screenshots/Creacióndx2.png)
 
 ### 5. Creación de diagnóstico - Continuación
 
-![Creación de diagnóstico continuación](screenshots/Creaciondx3.png)
+![Creación de diagnóstico continuación](screenshots/creaciondx3.png)
 
 ### 6. Ejecución del plan de tratamiento
 
