@@ -4,7 +4,7 @@ Professional Degree Project
 
 Plataforma de gestión integral para clínicas odontológicas
 
-📌 Descripción del proyecto
+## 📌 Descripción del proyecto
 
 DentalSmile es una plataforma diseñada para centralizar y optimizar los procesos administrativos, clínicos y operativos de una clínica odontológica.
 
@@ -12,9 +12,9 @@ El sistema permite gestionar pacientes, citas, agendas, fichas clínicas, diagn�
 
 El objetivo principal es mejorar la organización interna de la clínica, mantener la información centralizada y facilitar el seguimiento de cada paciente durante su atención odontológica.
 
-👥 Perfiles de usuario y funcionalidades
+## 👥 Perfiles de usuario y funcionalidades
 
-1. Secretaría
+## 1. Secretaría
 
 Este perfil permite gestionar las actividades administrativas relacionadas con la atención de pacientes.
 
@@ -25,7 +25,7 @@ Este perfil permite gestionar las actividades administrativas relacionadas con l
 * Registro de comentarios y observaciones.
 * Coordinación de las citas y disponibilidad de los profesionales.
 
-2. Odontólogo
+## 2. Odontólogo
 
 Este perfil permite gestionar la información clínica y el tratamiento de cada paciente.
 
@@ -45,7 +45,7 @@ Este perfil permite gestionar la información clínica y el tratamiento de cada 
     * Órdenes de radiografías.
     * Indicaciones médicas.
 
-3. Administrador
+## 3. Administrador
 
 Este perfil permite supervisar la operación general de la clínica y acceder a información administrativa y de seguimiento.
 
@@ -60,7 +60,7 @@ Este perfil permite supervisar la operación general de la clínica y acceder a 
 * Identificación de pacientes dados de alta hace más de seis meses para gestionar su recall.
 * Consulta de estadísticas de citas agendadas, canceladas y confirmadas, además de pacientes en sala de espera.
 
-🛠️ Arquitectura y tecnologías utilizadas
+## 🛠️ Arquitectura y tecnologías utilizadas
 
 DentalSmile está desarrollado mediante una arquitectura que separa la interfaz de usuario, la lógica del sistema y la persistencia de datos.
 
@@ -83,19 +83,22 @@ Control de versiones
 * Git
 * GitHub
 
-⚙️ Organización general del sistema
+## ⚙️ Organización general del sistema
 
 La plataforma contempla tres perfiles de usuario con funcionalidades diferenciadas, permitiendo conectar los procesos administrativos con la atención clínica y la supervisión de la gestión.
 
 La información de los pacientes y sus tratamientos se mantiene centralizada, facilitando la continuidad de la atención y el seguimiento de las actividades de la clínica.
 
-🎯 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 
 Desarrollar una solución informática que permita mejorar la gestión de una clínica odontológica mediante la integración de procesos administrativos, clínicos y operativos, contribuyendo a una atención más organizada y a una mejor supervisión de los recursos y actividades.
 
-👩‍💻 Desarrollo
+## 👩‍💻 Desarrollo
 
 Proyecto desarrollado como iniciativa de software para la gestión integral de una clínica odontológica.
 
 Repositorio: DentalSmile en GitHub
 commit
+
+
+## 📸 Capturas de pantalla del sistema
